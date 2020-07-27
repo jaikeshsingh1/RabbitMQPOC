@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service1", "RabbitMQPOC\Service1.csproj", "{130F5D84-E7D4-4571-973F-96A533E11302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service2", "Service2\Service2.csproj", "{727C279C-691D-485D-AB5E-6531F5FE30B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service3", "Service3\Service3.csproj", "{2440F722-912E-43C7-AF91-1E642312A509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130F5D84-E7D4-4571-973F-96A533E11302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130F5D84-E7D4-4571-973F-96A533E11302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130F5D84-E7D4-4571-973F-96A533E11302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130F5D84-E7D4-4571-973F-96A533E11302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727C279C-691D-485D-AB5E-6531F5FE30B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727C279C-691D-485D-AB5E-6531F5FE30B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727C279C-691D-485D-AB5E-6531F5FE30B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727C279C-691D-485D-AB5E-6531F5FE30B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2440F722-912E-43C7-AF91-1E642312A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2440F722-912E-43C7-AF91-1E642312A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2440F722-912E-43C7-AF91-1E642312A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2440F722-912E-43C7-AF91-1E642312A509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A0D62BE-8DDB-4E45-93F5-F2EA3C9C6122}
+	EndGlobalSection
+EndGlobal
